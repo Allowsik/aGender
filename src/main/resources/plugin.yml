@@ -1,0 +1,6 @@
+name: Allowsik
+version: '${project.version}'
+main: pl.allowsik.Allowsik
+api-version: 1.18
+authors: [ Allowsik ]
+description: Simple plugin enabling players to specify their gender
